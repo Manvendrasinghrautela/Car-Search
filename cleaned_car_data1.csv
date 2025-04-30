@@ -1,4 +1,4 @@
-Make,Model,Price,Fuel Type,Color
+brand,model,price,fuel_type,color
 honda,amaze 1.2 vx i-vtec,505000,petrol,grey
 maruti suzuki,swift dzire vdi,450000,diesel,white
 hyundai,i10 magna 1.2 kappa2,220000,petrol,maroon

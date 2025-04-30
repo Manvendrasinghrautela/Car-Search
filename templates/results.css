@@ -1,0 +1,24 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  .card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(255, 255, 255, 0.1);
+  }
+  .btn-secondary {
+    background-color: #6c757d;
+    border: none;
+  }
+  .btn-secondary:hover {
+    background-color: #5a6268;
+  }
+  h2 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }

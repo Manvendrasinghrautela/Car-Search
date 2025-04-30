@@ -39,5 +39,4 @@ def search():
     return render_template('results.html', cars=filtered.to_dict(orient='records'))
 
 if __name__ == '__main__':
-    app.run(debug=True)    
-
+    app.run(debug=True)
